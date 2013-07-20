@@ -1,0 +1,3 @@
+Put Facebook App Id in Consts.java and filePath in FbShare.java to share
+image on Facebook. If filePath is not provided then it will share only
+text update on Facebook.
