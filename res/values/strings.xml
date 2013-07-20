@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FbShare</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="logout_message">You have already Logged in.\n\nDo you want to logout?</string>
+    <string name="facebook_not_login">You are not logged in to Facebook. Please login to continue.</string>
+    <string name="not_login">You are not logged in to either Facebook or Twitter. Please login to continue.</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_login">Login</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="error">Error</string>
+    <string name="no_network">No network available..</string>
+    <string name="no_text">Please enter some text to share..</string>
+
+</resources>
